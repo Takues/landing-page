@@ -28,6 +28,7 @@ background-color: #1f2937;
 }
 
 ul {
+    text-decoration: none;
     display: flex;
     list-style: none;
     font-size: 18px;
@@ -37,6 +38,7 @@ ul {
 }
 a {
     color: #E5E7EB;
+    text-decoration: none;
     justify-content: space-between;
    
 }
@@ -166,6 +168,22 @@ button {
     padding: 5px 20px;
     border-radius: 8px;
     border: 2px solid white;
+}
+
+.footer {
+    background-color: #1f2937;
+    text-align: center;
+    padding:20px;
+
+}
+.c {
+    display: flex;
+    color: #E5E7EB;
+    justify-content: center;
+}
+.copyright-icon {
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 
