@@ -144,3 +144,29 @@ button {
     margin-bottom: 100px;
 }
 
+.forthSection {
+ padding: 88px 177px;
+
+}
+
+.SignUpSect {
+    display: flex;
+    background-color: #3882F6;
+    border-radius: 8px;
+    color:#F9FAF8;
+    padding: 33px;
+    justify-content: space-around;
+}
+
+
+
+.signUpButton {
+    background-color: #3882F6;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 8px;
+    border: 2px solid white;
+}
+
+
+
